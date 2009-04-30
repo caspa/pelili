@@ -1,0 +1,38 @@
+# Logfile created on Thu Apr 30 13:10:39 +0200 2009Creating public engine files directory '/Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/public/plugin_assets'
+checking plugin 'engines' for 'application_helper'
+checking plugin 'actionwebservice' for 'application_helper'
+checking plugin 'acts_as_activity_provider' for 'application_helper'
+checking plugin 'acts_as_attachable' for 'application_helper'
+checking plugin 'acts_as_customizable' for 'application_helper'
+checking plugin 'acts_as_event' for 'application_helper'
+checking plugin 'acts_as_list' for 'application_helper'
+checking plugin 'acts_as_searchable' for 'application_helper'
+checking plugin 'acts_as_tree' for 'application_helper'
+checking plugin 'acts_as_versioned' for 'application_helper'
+checking plugin 'acts_as_watchable' for 'application_helper'
+checking plugin 'classic_pagination' for 'application_helper'
+checking plugin 'coderay-0.7.6.227' for 'application_helper'
+checking plugin 'gloc-1.1.0' for 'application_helper'
+checking plugin 'gravatar' for 'application_helper'
+checking plugin 'moonshine' for 'application_helper'
+checking plugin 'rfpdf' for 'application_helper'
+checking plugin 'ruby-net-ldap-0.0.4' for 'application_helper'
+loading from application: application_helper
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/engines/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/actionwebservice/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_activity_provider/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_attachable/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_customizable/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_event/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_list/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_searchable/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_tree/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_versioned/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/acts_as_watchable/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/classic_pagination/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/coderay-0.7.6.227/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/gloc-1.1.0/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/gravatar/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/moonshine/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/rfpdf/routes.rb
+loading routes from /Users/andrebruehl/Projekte/WebApps/ProjectManagemant/redmine-0.8.3/vendor/plugins/ruby-net-ldap-0.0.4/routes.rb
