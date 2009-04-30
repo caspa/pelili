@@ -3,19 +3,19 @@
 production:
   delivery_method: :smtp
   smtp_settings:
-    address: smtp.example.net
+    address: mail.arcor.de
     port: 25
-    domain: example.net
+    domain: arcor.de
     authentication: :login
-    user_name: redmine@example.net
-    password: redmine
+    user_name: andrebruehl
+    password: iwg7fh
   
 development:
   delivery_method: :smtp
   smtp_settings:
-    address: 127.0.0.1
+    address: mail.arcor.de
     port: 25
-    domain: example.net
+    domain: arcor.de
     authentication: :login
-    user_name: redmine@example.net
-    password: redmine
+    user_name: andrebruehl
+    password: iwg7fh
